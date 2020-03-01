@@ -1,4 +1,5 @@
-﻿using Company.WebApi.Core.DefaultConfiguration;
+﻿using System;
+using ViennaNET.WebApi.Runners.BaseKestrel;
 
 namespace ItWasted.Day.Api
 {
@@ -6,8 +7,8 @@ namespace ItWasted.Day.Api
   {
     static void Main(string[] args)
     {
-      DefaultKestrelRunner
-        .Configure().BuildWebHost(args).Start();
+      BaseKestrelRunner.Configure().BuildWebHost(args).Start();
+      Console.ReadKey();
     }
   }
 }

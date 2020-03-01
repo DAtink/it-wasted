@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ItWasted.Day.Api": {
+      "commandName": "Project",
+      "commandLineArgs": "--console"
+    }
+  }
+}
