@@ -11,19 +11,16 @@
     <PackageReference Include="Microsoft.AspNetCore" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Cors" Version="2.2.0" />
-    <PackageReference Include="SimpleInjector.Packaging" Version="4.9.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Server.Kestrel" Version="2.2.0" />
+    <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="2.9.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0" />
   </ItemGroup>
   
   <ItemGroup>
-    <ProjectReference Include="..\..\Infrastructure\ViennaNET.WebApi.Abstractions\ViennaNET.WebApi.Abstractions.csproj" />
-    <ProjectReference Include="..\..\Infrastructure\ViennaNET.WebApi.Runners.BaseKestrel\ViennaNET.WebApi.Runners.BaseKestrel.csproj" />
-  </ItemGroup>
-  
-  <ItemGroup>
-    <None Update="conf\appsettings.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
+    <ProjectReference Include="..\ItWasted.Day.Domain\ItWasted.Day.Domain.csproj" />
   </ItemGroup>
 
 </Project>

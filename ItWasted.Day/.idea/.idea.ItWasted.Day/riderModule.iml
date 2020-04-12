@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.Diagnostic" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.HttpClient" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.Logging" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.Security" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.Security.Jwt" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.Utils" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.Validation" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.WebApi" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.WebApi.Abstractions" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.WebApi.Configurators.Common" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.WebApi.Configurators.Diagnostic" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.WebApi.Configurators.HttpClients.Abstractions" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.WebApi.Configurators.HttpClients.Jwt" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.WebApi.Configurators.HttpSys" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.WebApi.Configurators.Kestrel" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.WebApi.Configurators.Security.Jwt" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.WebApi.Configurators.SimpleInjector" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.WebApi.Configurators.Swagger" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.WebApi.Configurators.Swagger.UiJwtAuth" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.WebApi.Net" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.WebApi.Runners.BaseKestrel" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.WebApi.Runners.Extensions" />
+    <content url="file://$MODULE_DIR$/../../../Infrastructure/ViennaNET.WebApi.WindowsHosting" />
+    <content url="file://$MODULE_DIR$/../.." />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

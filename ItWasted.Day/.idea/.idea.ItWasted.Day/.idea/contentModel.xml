@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Dmitriy\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Dmitriy\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ItWasted.Day.983015435.00" t="ExcludeRecursive" />
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.Diagnostic" t="IncludeRecursive">
+      <e p="ViennaNET.Diagnostic.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.HttpClient" t="IncludeRecursive">
+      <e p="ViennaNET.HttpClient.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.Logging" t="IncludeRecursive">
+      <e p="ViennaNET.Logging.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.Security" t="IncludeRecursive">
+      <e p="ViennaNET.Security.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.Security.Jwt" t="IncludeRecursive">
+      <e p="ViennaNET.Security.Jwt.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.Utils" t="IncludeRecursive">
+      <e p="ViennaNET.Utils.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.Validation" t="IncludeRecursive">
+      <e p="ViennaNET.Validation.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.WebApi" t="IncludeRecursive">
+      <e p="ViennaNET.WebApi.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.WebApi.Abstractions" t="IncludeRecursive">
+      <e p="ViennaNET.WebApi.Abstractions.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.WebApi.Configurators.Common" t="IncludeRecursive">
+      <e p="ViennaNET.WebApi.Configurators.Common.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.WebApi.Configurators.Diagnostic" t="IncludeRecursive">
+      <e p="ViennaNET.WebApi.Configurators.Diagnostic.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.WebApi.Configurators.HttpClients.Abstractions" t="IncludeRecursive">
+      <e p="ViennaNET.WebApi.Configurators.HttpClients.Abstractions.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.WebApi.Configurators.HttpClients.Jwt" t="IncludeRecursive">
+      <e p="ViennaNET.WebApi.Configurators.HttpClients.Jwt.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.WebApi.Configurators.HttpSys" t="IncludeRecursive">
+      <e p="ViennaNET.WebApi.Configurators.HttpSys.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.WebApi.Configurators.Kestrel" t="IncludeRecursive">
+      <e p="ViennaNET.WebApi.Configurators.Kestrel.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.WebApi.Configurators.Security.Jwt" t="IncludeRecursive">
+      <e p="ViennaNET.WebApi.Configurators.Security.Jwt.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.WebApi.Configurators.SimpleInjector" t="IncludeRecursive">
+      <e p="ViennaNET.WebApi.Configurators.SimpleInjector.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.WebApi.Configurators.Swagger" t="IncludeRecursive">
+      <e p="ViennaNET.WebApi.Configurators.Swagger.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.WebApi.Configurators.Swagger.UiJwtAuth" t="IncludeRecursive">
+      <e p="ViennaNET.WebApi.Configurators.Swagger.UiJwtAuth.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.WebApi.Net" t="IncludeRecursive">
+      <e p="ViennaNET.WebApi.Net.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.WebApi.Runners.BaseKestrel" t="IncludeRecursive">
+      <e p="ViennaNET.WebApi.Runners.BaseKestrel.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.WebApi.Runners.Extensions" t="IncludeRecursive">
+      <e p="ViennaNET.WebApi.Runners.Extensions.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\Infrastructure\ViennaNET.WebApi.WindowsHosting" t="IncludeRecursive">
+      <e p="ViennaNET.WebApi.WindowsHosting.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\GitHub\waste-it\ItWasted.Day" t="IncludeFlat">
+      <e p="Infrastructure" t="Include" />
+      <e p="ItWasted.Day.Api" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="conf" t="Include">
+          <e p="appsettings.json" t="Include" />
+        </e>
+        <e p="Features" t="Include">
+          <e p="AddWasted" t="Include">
+            <e p="WastedController.cs" t="Include" />
+          </e>
+        </e>
+        <e p="ItWasted.Day.Api.csproj" t="IncludeRecursive" />
+        <e p="MainPackage.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ItWasted.Day.Api.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+      </e>
+      <e p="ItWasted.Day.Domain" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Entities" t="Include">
+          <e p="WastedPerDay.cs" t="Include" />
+        </e>
+        <e p="Events" t="Include">
+          <e p="WasteAddedEvent.cs" t="Include" />
+        </e>
+        <e p="ItWasted.Day.Domain.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="ItWasted.Day.Domain.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="ValueTypes" t="Include">
+          <e p="SingleWaste.cs" t="Include" />
+        </e>
+      </e>
+      <e p="ItWasted.Day.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

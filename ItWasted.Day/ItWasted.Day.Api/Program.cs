@@ -1,5 +1,5 @@
-﻿using System;
-using ViennaNET.WebApi.Runners.BaseKestrel;
+﻿using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Hosting;
 
 namespace ItWasted.Day.Api
 {
@@ -7,8 +7,14 @@ namespace ItWasted.Day.Api
   {
     static void Main(string[] args)
     {
-      BaseKestrelRunner.Configure().BuildWebHost(args).Start();
-      Console.ReadKey();
+      CreateHostBuilder(args).Build().Start();
     }
+
+    private static IHostBuilder CreateHostBuilder(string[] args) =>
+    Host.CreateDefaultBuilder(args)
+        .ConfigureWebHostDefaults(webBuilder =>
+        {
+          webBuilder.UseStartup<Startup>();
+        });
   }
 }
